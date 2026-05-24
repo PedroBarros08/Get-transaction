@@ -1,0 +1,18 @@
+# Arquivo de variáveis sensíveis
+.env
+
+# Logs
+*.log
+
+# Cache do Python
+__pycache__/
+*.pyc
+
+# Ambiente virtual
+venv/
+
+# Arquivos Excel gerados
+*.xlsx
+
+# Arquivos do sistema
+.DS_Store
